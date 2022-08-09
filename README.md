@@ -1,4 +1,4 @@
-# Machine-Learning-Project
+# Random Forest Classifier and Logistic Regression
 
 Description of Dataset:
 
